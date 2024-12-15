@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jasmina001/Landing-Page/issues"
   },
-  "homepage": "https://github.com/jasmina001/Landing-Page#readme"
+  "homepage": "https://github.com/jasmina001/Landing-Page#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.16"
+  }
 }
